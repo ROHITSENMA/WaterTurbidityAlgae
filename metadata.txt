@@ -1,0 +1,9 @@
+[general]
+name=Water Turbidity & Algae Detection
+description=Detects water turbidity and algal blooms using Sentinel-2 imagery
+version=1.0
+qgisMinimumVersion=3.16
+author=Your Name
+email=your@email.com
+category=Raster
+icon=icon.png
